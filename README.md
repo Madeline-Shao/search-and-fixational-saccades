@@ -32,3 +32,8 @@ Plots saccades in data using function find_saccades
 # find_saccades 
 Called by training_data, plots data and allows user to add saccades
 
+# avg_reaction
+Calculates average reaction times
+
+# TestImages
+Tests the images
